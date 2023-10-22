@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Kotlin and xml
 - 📫 How to reach me ...
 - LinkedIn - https://www.linkedin.com/in/gyanendra-gaurav-674906249
+- Twitter - https://twitter.com/GyanendraGaurav
 - Instagam - https://www.instagram.com/gyanendra_gaurav/
 
 <!---
