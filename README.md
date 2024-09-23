@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @gaurav811307<br>- 👀 I’m interested in App development<br>- 🌱 I’m currently learning Kotlin and xml<br>💬 Ask me about Android development.<br>- 📫 How to reach me ...<br><br>
+👋 Hi, I’m Gyanendra Gaurav<br>- 👀 I’m interested in App development<br>- 🌱 I’m currently learning Kotlin and xml<br>💬 Ask me about Android development.<br>- 📫 How to reach me ...<br><br>
 
 
 ## 🌐 Socials:
